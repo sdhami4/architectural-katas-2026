@@ -8,7 +8,7 @@
 |------|--------|
 | Roberto | [@Humanberto](https://github.com/Humanberto) |
 | Sergey Buylov |  [@sgblv](https://github.com/sgblv) |
-| Swati Dhami | _add handle_ |
+| Swati Dhami | [@dhamiswati] |
 | Kelly Colht | [@kellycolht](https://github.com/kellycolht) |
 
 ## The problem
